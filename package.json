@@ -1,5 +1,5 @@
 {
-  "name": "abstract",
+  "name": "@antigravities/abstract",
   "version": "1.0.0",
   "description": "Abstract classes in JavaScript",
   "main": "index.js",
