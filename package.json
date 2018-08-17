@@ -1,0 +1,19 @@
+{
+  "name": "abstract",
+  "version": "1.0.0",
+  "description": "Abstract classes in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antigravities/abstract.git"
+  },
+  "author": "Alexandra Frock <alexandra@cutie.cafe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antigravities/abstract/issues"
+  },
+  "homepage": "https://github.com/antigravities/abstract#readme"
+}
