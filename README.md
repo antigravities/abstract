@@ -30,7 +30,11 @@ class Cat extends Animal {
   }
 }
 
-class Pig extends Animal { } // Error: Pig must implement makeNoise
+class Pig extends Animal { }
+
+new Dog();
+new Cat();
+new Pig(); // Error: Pig must implement makeNoise
 ```
 
 # License
